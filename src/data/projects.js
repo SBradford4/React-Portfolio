@@ -35,9 +35,9 @@ const projects = [
     },
     {
         id: 5,
-        name: "Personal-Blog",
-        image: WeatherImg,
-        githubLink: "https://github.com:SBradford4/4-Personal-Blog",
+        name: "Personal Blog",
+        image: PersonalBlog,
+        githubLink: "https://github.com/SBradford4/4-Personal-Blog",
         technologies: "JavaScript, Web APIs"
     },
     {
