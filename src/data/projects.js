@@ -2,6 +2,7 @@ import WeatherImg from "../assets/images/weather-dashboard.png";
 import Readme from "../assets/images/readme-generator.png";
 import VehicleBuilder from "../assets/images/vehicle-builder.png";
 import SqlEmployeeTracker from "../assets/images/sql-employee-tracker.png";
+import PersonalBlog from "../assets/images/Personal-Blog.png";
 
 const projects = [
     {
@@ -34,10 +35,10 @@ const projects = [
     },
     {
         id: 5,
-        name: "Weather Dashboard",
+        name: "Personal-Blog",
         image: WeatherImg,
-        githubLink: "https://github.com/SBradford4/WeatherDashboard",
-        technologies: "Web APIs"
+        githubLink: "https://github.com:SBradford4/4-Personal-Blog",
+        technologies: "JavaScript, Web APIs"
     },
     {
         id: 6,
